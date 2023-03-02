@@ -1,3 +1,1 @@
-# School website
-
-i have created a responsive school website.
+This is a simple responsive school page created using HTML, CSS and JavaScript. It includes basic information about the school and its programs.
